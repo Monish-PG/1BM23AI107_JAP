@@ -1,0 +1,30 @@
+GYM OUTPUT:
+
+Welcome to the Membership
+Enter your name
+ monish
+Enter the age
+19
+Active member? type (true/false)
+true
+Enter the duration in Months
+6
+Details:
+Name  monish
+Age 19
+Duration 6
+Fee 300.0
+
+Process finished with exit code 0
+
+CHESSBOARD OUTPUT
+*   *   *   *   
+  *   *   *   * 
+*   *   *   *   
+  *   *   *   * 
+*   *   *   *   
+  *   *   *   * 
+*   *   *   *   
+  *   *   *   * 
+
+Process finished with exit code 0
